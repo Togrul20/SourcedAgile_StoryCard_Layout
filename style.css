@@ -1,0 +1,16 @@
+body {
+  background-color: #f2f2f2;
+  font-family: "Quicksand", sans-serif;
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}  
+
+@media screen and (max-width: 550px) {
+    .icons button {
+      width: 10vw;
+    }
+  }
+  
