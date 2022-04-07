@@ -6,11 +6,14 @@ body {
 .btn:focus {
   outline: none;
   box-shadow: none;
-}  
+}
 
 @media screen and (max-width: 550px) {
-    .icons button {
-      width: 10vw;
-    }
+  .icons button {
+    width: 10vw;
   }
-  
+}
+
+.aca {
+  display: block;
+}
